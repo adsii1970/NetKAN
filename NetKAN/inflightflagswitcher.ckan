@@ -1,0 +1,10 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "<InFlightFlagSwitcher>",
+    "$kref"        : "#/ckan/github/adsii1970/InFlightFlagSwitcher",
+    "license"      : "GPL-3.0",
+    "ksp_version"  : "1.0.2",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151525-121-in-flight-flag-switcher-v-11-04-11-2016/#comment-2839102"
+    }
+}
